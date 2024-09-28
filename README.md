@@ -1,6 +1,7 @@
 # Basic_Calculator_By_Mehedi
 Basic_Calculator_By_Mehedi_for_CUB_Assignments
 Basic Calculator in EMU8086 Assembly Language
+
 Description:
 
 This project is a simple calculator program written in 8086 Assembly Language. It allows users to perform basic arithmetic operations such as Addition, Subtraction, Multiplication, and Division using an 8-bit processor. The calculator takes two input digits (ranging from 0 to 9), performs the selected operation, and displays the result with a custom message. This project is built specifically for educational purposes and microprocessor lab exercises.
